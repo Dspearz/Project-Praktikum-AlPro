@@ -1,6 +1,7 @@
 Project Praktikum Algoritma Pemograman.
 Yang Dikerjakan oleh :
 Jefferson Manik.
+&
 Andika Putra Bangsa.
 
 Judul:
